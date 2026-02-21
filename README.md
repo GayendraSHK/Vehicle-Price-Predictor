@@ -31,7 +31,7 @@ An end-to-end machine learning pipeline that **scrapes** used vehicle listings f
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/GayendraSHK/Vehicle-Price-Predictor.git
 cd <repo-name>
 ```
 
